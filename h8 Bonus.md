@@ -16,9 +16,9 @@ I improved the tasks that had under 5 score with improvement ideas. Other ones I
   - Added the connection between the scientific article and the blog
 
 - h5 Alice and Bob: https://github.com/Jussi-Pekka-S/Cyber-Security-2026-late-autumn-h5-Alice-and-Bob-/blob/main/h5%20Alice%20and%20Bob.md
-- Changed the titles around with the persons A & B, based on the evaluation.
-- Added pictures of the process involving Encrypt and decrypt a message, based on the evaluation with the help of some tools.
-- Added a few lines of code to help with the "story" to go along the pictures.
+  - Changed the titles around with the persons A & B, based on the evaluation.
+  - Added pictures of the process involving Encrypt and decrypt a message, based on the evaluation with the help of some tools.
+  - Added a few lines of code to help with the "story" to go along the pictures.
 
   b) Voluntary: Extras: List and link voluntary extra tasks you have completed.
 - H0 Hello: https://jussi-pekka-s.github.io/Cyber-Security---2026-late-autumn/. Done 100%.
